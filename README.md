@@ -2,6 +2,10 @@
 
 > Simple HTML Editor
 
+## Demo
+
+- https://niceaji.github.io/htmleditor-svelte-codemirror6/
+
 ## Used
 
 - [Svelte](https://svelte.dev/)
